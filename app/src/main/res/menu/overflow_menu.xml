@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:android="http://schemas.android.com/apk/res/android">
+
+    <item android:title="@string/show_all"
+        android:id="@+id/show_all_menu"/>
+
+    <item android:title="@string/show_rent"
+        android:id="@+id/show_rent_menu"/>
+
+    <item android:title="@string/show_buy"
+        android:id="@+id/show_but_menu"/>
+</menu>
